@@ -1,3 +1,5 @@
+#Solution to fing HCF
+
 read a
 read b
 
