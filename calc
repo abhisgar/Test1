@@ -13,5 +13,5 @@ echo $multiplication
 div=$(( a*4 / $b))
 echo $div
 
-remainder=$(( a*4 / $b))
+remainder=$(( a*4 % $b))
 echo $remainder
