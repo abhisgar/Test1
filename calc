@@ -3,3 +3,12 @@ b=20
 
 sum=$(( $a*2 + $b))
 echo $sum
+
+diff=$(( $a*3 - $b))
+echo $diff
+
+multiplication=$(( $a * $b))
+echo $multiplication
+
+div=$(( a*4 / $b))
+echo $div
